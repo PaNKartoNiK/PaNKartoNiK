@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PaNKartoNiK
 - 👀 I’m interested in Codeing, Music, Cars, Guitar
-- 🌱 I’m currently learning PHP, JS, CSS, HTML, C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ and Python🐍
 - 📫 How to reach me? Chceck linktree in bio
 - 📚 I'm still learning, so please be understanding :) THANKS!
 <!---
